@@ -14,4 +14,4 @@ services:
   ridesupport_manageservices_db:
     image: "mongo"
     ports:
-      - "4003:27017"
+      - "3004:27017"
